@@ -4,80 +4,77 @@
 
                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(1).pdf" style="text-decoration:none;">Structure-and-Motion Pipeline on a Hierarchical Cluster Tree</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(1).pdf" style="text-decoration:none;">Very Deep Convolutional Networks for Large-Scale Image Recognition</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(2).pdf" style="text-decoration:none;">Efficient Multi-View Reconstruction of Large-Scale Scenes using Interest Points, Delaunay Triangulation and Graph Cuts</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(2).pdf" style="text-decoration:none;">Going deeper with convolutions</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(3).pdf" style="text-decoration:none;">Large-scale, real-time visual-inertial localization revisited</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(4).pdf" style="text-decoration:none;">LATCH: Learned Arrangements of Three Patch Codes</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(5).pdf" style="text-decoration:none;">Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(6).pdf" style="text-decoration:none;">TAPA-MVS: Textureless-Aware PAtchMatch Multi-View Stereo</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(7).pdf" style="text-decoration:none;">Efficient Multi-view Surface Refinement with Adaptive Resolution Control</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(3).pdf" style="text-decoration:none;">Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(4).pdf" style="text-decoration:none;">Rethinking the Inception Architecture for Computer Vision</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(5).pdf" style="text-decoration:none;">Deep Residual Learning for Image Recognition</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(6).pdf" style="text-decoration:none;">Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(7).pdf" style="text-decoration:none;">SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(8).pdf" style="text-decoration:none;"> Fast and Accurate Image Matching with Cascade Hashing for 3D Reconstruction</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(9).pdf" style="text-decoration:none;">Global Structure-from-Motion by Similarity Averaging</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(8).pdf" style="text-decoration:none;"> Identity Mappings in Deep Residual Networks</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(9).pdf" style="text-decoration:none;">Resnet in Resnet: Generalizing Residual Architectures</a></b></li>
   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(10).pdf" style="text-decoration:none;">HSfM: Hybrid Structure-from-Motion</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(11).pdf" style="text-decoration:none;">Hierarchical structure-and-motion recovery from uncalibrated images</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(12).pdf" style="text-decoration:none;">3D indoor scene modeling from RGB-D data: a survey</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(13).pdf" style="text-decoration:none;">Combining Two-view Constraints For Motion Estimation</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(10).pdf" style="text-decoration:none;">Deep Networks with Stochastic Depth</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(11).pdf" style="text-decoration:none;">Wide Residual Networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(12).pdf" style="text-decoration:none;">FractalNet: Ultra-Deep Neural Networks without Residuals</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(13).pdf" style="text-decoration:none;">Densely Connected Convolutional Networks</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(14).pdf" style="text-decoration:none;">Lie-Algebraic Averaging For Globally Consistent Motion Estimation</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(14).pdf" style="text-decoration:none;">Xception: Deep Learning with Depthwise Separable Convolutions</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(15).pdf" style="text-decoration:none;">Real-Time Simultaneous Localisation and Mapping with a Single Camera</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(15).pdf" style="text-decoration:none;">Deep Pyramidal Residual Networks</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(16).pdf" style="text-decoration:none;">Photometric Bundle Adjustment for Dense Multi-View 3D Modeling</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(16).pdf" style="text-decoration:none;"> Designing Neural Network Architectures using Reinforcement Learning</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(17).pdf" style="text-decoration:none;">DPSNet: End-to-end Deep Plane Sweep Stereo</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(17).pdf" style="text-decoration:none;">Aggregated Residual Transformations for Deep Neural Networks</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(18).pdf" style="text-decoration:none;">Non-Sequential Structure from Motion</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(18).pdf" style="text-decoration:none;">PolyNet: A Pursuit of Structural Diversity in Very Deep Networks</a></b></li> 
 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(19).pdf" style="text-decoration:none;">Unordered feature tracking made fast and easy</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(19).pdf" style="text-decoration:none;">Genetic CNN</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(20).pdf" style="text-decoration:none;">MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(20).pdf" style="text-decoration:none;">Sharing Residual Units Through Collective Tensor Factorization in Deep Neural Networks</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(21).pdf" style="text-decoration:none;">Efficient Structure from Motion by Graph Optimization</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(22).pdf" style="text-decoration:none;">A Global Linear Method for Camera Pose Registration</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(23).pdf" style="text-decoration:none;">Real-Time 6-DOF Monocular Visual SLAM in a Large-Scale Environment</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(21).pdf" style="text-decoration:none;">MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(22).pdf" style="text-decoration:none;">Residual Attention Network for Image Classification</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(23).pdf" style="text-decoration:none;">ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices</a></b></li> 
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(24).pdf" style="text-decoration:none;">Product Quantization for Nearest Neighbor Search</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(24).pdf" style="text-decoration:none;">Dual Path Networks</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(25).pdf" style="text-decoration:none;">Parallel Tracking and Mapping for Small AR Workspaces</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(26).pdf" style="text-decoration:none;">Real-time Image-based 6-DOF Localization in Large-Scale Environments</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(27).pdf" style="text-decoration:none;">Progressive Prioritized Multi-view Stereo</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(25).pdf" style="text-decoration:none;">Interleaved Group Convolutions for Deep Neural Networks</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(26).pdf" style="text-decoration:none;">Learning Transferable Architectures for Scalable Image Recognition</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(27).pdf" style="text-decoration:none;">Practical Block-wise Neural Network Architecture Generation</a></b></li>
    
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(28).pdf" style="text-decoration:none;">Efficient Deep Learning for Stereo Matching</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(28).pdf" style="text-decoration:none;">Squeeze-and-Excitation Networks</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(29).pdf" style="text-decoration:none;">Robust Rotation and Translation Estimation in Multiview Reconstruction</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(29).pdf" style="text-decoration:none;">Hierarchical Representations for Efficient Architecture Search</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(30).pdf" style="text-decoration:none;">Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(30).pdf" style="text-decoration:none;">CondenseNet: An Efficient DenseNet using Learned Group Convolutions</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(31).pdf" style="text-decoration:none;">Real Time Localization and 3D Reconstruction</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(32).pdf" style="text-decoration:none;">Photo Tourism: Exploring Photo Collections in 3D</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(31).pdf" style="text-decoration:none;">Progressive Neural Architecture Search</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(32).pdf" style="text-decoration:none;">MobileNetV2: Inverted Residuals and Linear Bottlenecks</a></b></li> 
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(33).pdf" style="text-decoration:none;">Multi-View Stereo with Single-View Semantic Mesh Refinement</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(33).pdf" style="text-decoration:none;">Regularized Evolution for Image Classifier Architecture Search</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(34).pdf" style="text-decoration:none;">Building Rome in a Day</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(34).pdf" style="text-decoration:none;">IGCV2: Interleaved Structured Sparse Convolutional Neural Networks</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(35).pdf" style="text-decoration:none;">Pixelwise View Selection for Unstructured Multi-View Stereo</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(35).pdf" style="text-decoration:none;">IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks</a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(36).pdf" style="text-decoration:none;">Structure-from-Motion Revisited</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(36).pdf" style="text-decoration:none;">DARTS: Differentiable Architecture Search</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(37).pdf" style="text-decoration:none;">Global Motion Estimation from Point Matches</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(38).pdf" style="text-decoration:none;">Multi-View Stereo via Graph Cuts on the Dual of an Adaptive Tetrahedral Mesh</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(39).pdf" style="text-decoration:none;">Point Track Creation in Unordered Image Collections Using Gomory-Hu Trees</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(40).pdf" style="text-decoration:none;">Refinement of Surface Mesh for Accurate Multi-View Reconstruction</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(41).pdf" style="text-decoration:none;">Visual Odometry, Part I: The First 30 Years and Fundamentals</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(42).pdf" style="text-decoration:none;">Visual Odometry, Part II: Matching, Robustness, Optimization, and Applications</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(43).pdf" style="text-decoration:none;">Tutorial on Visual Odometry</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(37).pdf" style="text-decoration:none;">ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(38).pdf" style="text-decoration:none;">MnasNet: Platform-Aware Neural Architecture Search for Mobile</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(39).pdf" style="text-decoration:none;"> ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(40).pdf" style="text-decoration:none;">Selective Kernel Networks</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(41).pdf" style="text-decoration:none;">Res2Net: A New Multi-scale Backbone Architecture</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/ivp(42).pdf" style="text-decoration:none;">Searching for MobileNetV3</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(44).pdf" style="text-decoration:none;">Towards Linear-time Incremental Structure from Motion</a></b></li>
 </ul>
 
 
